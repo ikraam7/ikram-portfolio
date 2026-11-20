@@ -1,0 +1,13 @@
+PORTFOLIO IKRAM — VERSION CORRIGÉE
+
+Les captures des projets sont intégrées directement dans index.html.
+Elles s’affichent donc même si ce fichier est ouvert seul.
+
+Pour utiliser les vidéos, rapports PDF et certificats, conservez les
+dossiers videos/, reports/ et certificates/ au même niveau que index.html.
+
+Pour publier le site sur Vercel, déployez le CONTENU de ce dossier
+(index.html et les sous-dossiers), sans déplacer index.html tout seul.
+
+CV : FR et EN ajoutés. En mode FR le bouton télécharge CV_Ikram_LAABOUKI_FR.pdf ; en mode EN, CV_Ikram_LAABOUKI_EN.pdf.
+Le lien Portfolio dans le CV renvoie au site index.html fourni dans ce ZIP. Une fois publié sur Vercel, remplacer cette indication par l’URL publique du site.
